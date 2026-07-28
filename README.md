@@ -1,11 +1,11 @@
 # Hello Sophia! 仓库结构
 
-这个 `site` 文件夹已经整理成适合长期维护的静态站点结构，可以直接作为 GitHub 仓库根目录使用，也可以直接上传到 Vercel。
+当前仓库根目录已经整理成适合长期维护的静态站点结构，可以直接用于 GitHub Pages，也可以连接 Vercel 自动部署。
 
 ## 目录
 
 ```text
-site/
+仓库根目录/
 ├── CNAME
 ├── README.md
 ├── .gitignore
@@ -26,7 +26,7 @@ site/
 
 ## 推荐维护方式
 
-1. 把这个 `site` 文件夹里的内容作为 GitHub 仓库根目录
+1. 直接维护当前仓库根目录中的这些文件
 2. 日常只改：
    - `index.html`
    - `assets/images/`
